@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Module>
-	<Name value="No Education Popups (by Brut)"/>
+	<Name value="Brut.NoEducationPopups"/>
 	<Id value="Brut.NoEducationPopups"/>
 	<Version value="v1.0.0"/>
 	<SingleplayerModule value="true"/>

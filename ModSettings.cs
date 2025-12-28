@@ -12,7 +12,7 @@ namespace Brut.NoEducationPopups
     internal sealed class ModSettings : AttributeGlobalSettings<ModSettings>
     {
         public override string Id => "Brut.NoEducationPopups_v2";
-        public override string DisplayName => "No Education Popups (by Brut)";
+        public override string DisplayName => "Brut.NoEducationPopups";
         public override string FolderName => "Brut.NoEducationPopups";
         public override string FormatType => "json2";
 
