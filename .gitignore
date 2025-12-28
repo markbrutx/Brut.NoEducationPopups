@@ -1,0 +1,28 @@
+# Claude Code
+CLAUDE.md
+.claude/
+
+# IDE / Editor
+.wb
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# NuGet
+packages/
+*.nupkg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

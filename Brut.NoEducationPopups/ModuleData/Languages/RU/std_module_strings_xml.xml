@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <!-- Уведомления -->
+    <string id="brut_edu_complete" text="Обучение {CHILD_NAME} завершено."/>
+    <string id="brut_edu_complete_detailed" text="Обучение {CHILD_NAME} завершено. ({BONUSES})"/>
+  </strings>
+</base>
